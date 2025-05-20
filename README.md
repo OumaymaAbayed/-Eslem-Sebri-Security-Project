@@ -53,13 +53,20 @@ This project demonstrates a secure data pipeline for scraping, encrypting, and a
 - Dataset (`tayara_vehicles_cleaned.csv`) is encrypted into `tayara_vehicles_cleaned_encrypted.csv`
 - Ensures confidentiality and safe handling of scraped data ✅
 
-```python
-from cryptography.fernet import Fernet
-key = Fernet.generate_key()
-fernet = Fernet(key)
-encrypted = fernet.encrypt(data)
 
+## 🖥️ Interface Modes
+### 👤 User Mode:
 
-For the final deliverables, the executable file was too large to submit directly. Therefore, we uploaded our files to a shared drive folder: (https://drive.google.com/drive/folders/17VJ_wtALpBF6FYjkOWcrJBe7_sE3U0wR?usp=drive_link)
+Filter by: Brand, Color, State, Fuel Type, Gearbox
+
+For everyday buyers or sellers looking for specific cars
+
+### 📊 Data Analysis Mode:
+
+Graphs on pricing trends, model frequency, brand averages
+
+## Final Deliverables
 
 You can find the executable version in: ``` D3/ main exee/ dist```
+## Final deliverables:
+For the final deliverables, the executable file was too large to submit directly. Therefore, we uploaded our files to a shared drive folder: (https://drive.google.com/drive/folders/17VJ_wtALpBF6FYjkOWcrJBe7_sE3U0wR?usp=drive_link)
