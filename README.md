@@ -15,10 +15,8 @@ This project demonstrates a secure data pipeline for scraping, encrypting, and a
 - [🔎 Pipeline](#-pipeline)
 - [🔐 Encryption](#-encryption)
 - [🖥️ Interface Modes](#-interface-modes)
-- [📸 Screenshots](#-screenshots)
-- [📁 Project Structure](#-project-structure)
-- [📌 How to Run](#-how-to-run)
-- [📝 License](#-license)
+- [📁 Final Deliverables ](#-Final-Deliverables)
+
 
 ---
 
@@ -68,5 +66,5 @@ Graphs on pricing trends, model frequency, brand averages
 ## Final Deliverables
 
 You can find the executable version in: ``` D3/ main exee/ dist```
-## Final deliverables:
+
 For the final deliverables, the executable file was too large to submit directly. Therefore, we uploaded our files to a shared drive folder: (https://drive.google.com/drive/folders/17VJ_wtALpBF6FYjkOWcrJBe7_sE3U0wR?usp=drive_link)
